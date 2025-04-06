@@ -80,7 +80,7 @@ export const AboutSection = (): JSX.Element => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-            <Button onClick={() => window.open('https://drive.google.com/file/d/1KTkBeRJL17TkEYg20SnM0F3dkPgTQSjs/view?usp=drive_link', '_blank')} className="bg-[#1a1a1a] text-white rounded-[100px] border border-[#ffffff1a] h-[54px] w-[167px] relative overflow-hidden glow-shadow">
+            <Button onClick={() => window.open('https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto', '_blank')} className="bg-[#1a1a1a] text-white rounded-[100px] border border-[#ffffff1a] h-[54px] w-[167px] relative overflow-hidden glow-shadow">
             <span className="font-medium text-lg tracking-wide relative z-10">
               View Resume
             </span>
