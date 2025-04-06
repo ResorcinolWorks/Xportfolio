@@ -9,8 +9,7 @@ export const EducationSection = (): JSX.Element => {
       period: "2022 - 2026",
       details: [
         "Current CGPA: 8.1/10",
-        "Published research paper on 'Advanced Algorithms in Machine Learning'",
-        "Won Smart India Hackathon 2023",
+        "Member of Competitive Programming Club",
         "Teaching Assistant for Data Structures and Algorithms course",
       ],
     },
