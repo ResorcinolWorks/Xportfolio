@@ -15,7 +15,7 @@ export const ProjectsSection = (): JSX.Element => {
     {
       title: "HealthAI",
       description: "AI-powered health monitoring and analysis platform",
-      image: "/dist/assets/HeathAI.png",
+      image: "https://placehold.co/600x400/333/white?text=HealthAI",
       tech: ["Next.js", "Node.js", "PostgreSQL", "Stripe"],
       link: "https://github.com/ResorcinolWorks/HealthAi",
     },
